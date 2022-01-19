@@ -12,7 +12,7 @@ Rode o comando para clonar o repositório e depois instalar as dependências com
 
 ```
 git clone "https://github.com/derleymad/Desafio-Hub-Local.git"
-cd my-project-name
+cd Desafio-Hub-Local
 npm install
 ```
 
