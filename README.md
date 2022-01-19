@@ -1,6 +1,6 @@
 # Landing Page parao Desafio HubLocal
 
-🚀 Landing Page para o desafio HubLocal escrita em React, TypeScript, Next.js, ESLint, Prettier, Husky, Lint-Staged, VSCode, Netlify, PostCSS, Tailwind CSS.
+🚀 Landing Page para o desafio HubLocal escrita em React, TypeScript, Next.js, ESLint, Prettier, Husky, Lint-Staged, VSCode, Vercel, PostCSS, Tailwind CSS.
 
 ### O que precisa
 
