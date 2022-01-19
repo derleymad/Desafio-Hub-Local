@@ -11,7 +11,7 @@
 Rode o comando para clonar o repositório e depois instalar as dependências com npm.
 
 ```
-git clone "projeto.git"
+git clone "https://github.com/derleymad/Desafio-Hub-Local.git"
 cd my-project-name
 npm install
 ```
