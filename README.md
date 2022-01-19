@@ -1,4 +1,4 @@
-# Landing Page Construida com Next JS 12+, Tailwind CSS 3 and TypeScript
+# Landing Page parao Desafio HubLocal
 
 🚀 Landing Page para o desafio HubLocal escrita em React, TypeScript, Next.js, ESLint, Prettier, Husky, Lint-Staged, VSCode, Netlify, PostCSS, Tailwind CSS.
 
