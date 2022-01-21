@@ -3,7 +3,7 @@
 🚀 Landing Page para o desafio HubLocal escrita em React, TypeScript, Next.js, ESLint, Prettier, Husky, Lint-Staged, VSCode, Vercel, PostCSS, Tailwind CSS.
 
 ## Demo da *Landing Page*:
-![image page](https://github.com/derleymad/Desafio-Hub-Local/blob/master/public/assets/images/desafio-hub-local-three.vercel.app_.png)
+![image page](https://github.com/derleymad/Desafio-Hub-Local/blob/master/public/assets/images/demo.png)
 
 ### O que precisa
 
